@@ -1,2 +1,2 @@
 # PHP-MVC
-Mini blog en php - MVC
+ce projet consiste a créé un mini blog en php, et mettre en pratique le design pattern MVC.
